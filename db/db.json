@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "shahbaz",
+      "email": "shahbaz@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Numan",
+      "email": "talib@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Numan",
+      "email": "numan@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Nazia",
+      "email": "nazia@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "Shahid",
+      "email": "shahid@gmail.com",
+      "password": "1234",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Zpr",
+      "contact": 999888
+    },
+    {
+      "name": "Foodpanda",
+      "address": "Gpr",
+      "contact": 5454545,
+      "id": 2
+    },
+    {
+      "name": "Taaj",
+      "address": "Lhr",
+      "contact": 121212,
+      "id": 3
+    },
+    {
+      "name": "ggggg1",
+      "address": "ggggg1",
+      "contact": 555551,
+      "id": 4
+    }
+  ]
+}
